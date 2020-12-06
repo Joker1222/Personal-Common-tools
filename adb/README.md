@@ -1,6 +1,7 @@
 # ADB Common cmd
 
 ~~~bash
+$ adb connect 127.0.0.1:7555            #连接mumu模拟器,其他模拟器端口上网查
 $ adb devices                           #查看当前所有连接设备
 $ adb -s <deviceid> <cmd>               #用于在有多个连接设备时指定某个设备执行某些命令
 $ adb shell                             #shell登录手机,类似linux交互式登录,有很多linux命令可以用
