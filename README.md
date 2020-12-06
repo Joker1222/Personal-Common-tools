@@ -3,7 +3,7 @@ Common tools in my work
 
 # tools list
 ### 1. 思维导图(跨平台)
-**XMIND**
+**XMIND** <br>
 优点：
  - 跨平台 
  - 支持导出xmind格式
@@ -11,7 +11,7 @@ Common tools in my work
  - 使用体验较好
 
 ### 2. 知识库笔记本(跨平台)
-**Obsidian**
+**Obsidian** <br>
 优点：(帅)
 - 跨平台 
 - 支持vim+markdown (脱离鼠标编辑)
@@ -25,7 +25,7 @@ Common tools in my work
 - 不支持云同步，多机同步只能靠git等第三方软件
 
  ### 3. 日程提醒,备忘清单(Mac)
- **TodoList**
+ **TodoList** <br>
  优点：
  - 界面简洁
  - DDL提醒
@@ -35,7 +35,7 @@ Common tools in my work
  - 标签过滤
  
  ### 4. 文本查看(Windows)
- **Nodepad++**
+ **Nodepad++** <br>
  优点:
  - 支持正则匹配高亮
  - 搜索也比较全面
