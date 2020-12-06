@@ -6,10 +6,7 @@ $ adb -s <deviceid> <cmd>               #用于在有多个连接设备时指定
 $ adb shell                             #shell登录手机,类似linux交互式登录,有很多linux命令可以用
 $ adb push <local path> <remote path>   #本地文件上传到手机
 $ adb pull <remote path> <local path>   #手机文件下载到本地
-$ adb logcat -s Unity:E                 #日志查看
-# Unity表示查看Unity日志
-# :E 表示查看Error级别以上
-# 其他级别 :D :I :W :F :S :V
+$ adb logcat -s Unity:E                 #日志查看  Unity表示查看Unity日志 日志级别 :D :I :W :F :S :V
 $ adb logcat -b crash                   #查看crash日志,卡死,闪退时用
 $ adb logcat -c                         #清除logcat日志缓存区 一般是512kb
 ~~~
