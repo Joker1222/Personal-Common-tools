@@ -97,4 +97,9 @@ https://mathewsachin.github.io/Captura/
 开源的屏幕录制软件，支持录制窗口/指定区域，支持gif录制
 
 ### 17. adb(win)
+https://github.com/Joker1222/Personal-Common-tools/tree/main/adb
+用于调试手机或模拟器的工具
 
+### 18. navicat(win)
+https://github.com/Joker1222/Personal-Common-tools/tree/main/navicat
+mysql可视化工具
